@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AN-AKKI
 - 👀 I’m interested in working on different frameworks for app development.
-- 🌱 I’m currently learning PYTHON , C AND SQL. 
+- 🧑🏻‍💻 Just completed Python , SQL, C and is learning C++
 - 💞️ I’m looking to collaborate on PROJECTS THAT INCLUDES APP DEVELOPMENT
 - 📫 How to reach me? - akshatbhardwaj872@gmail.com
 
